@@ -1,3 +1,3 @@
 console.error("HA!")
-console.warn("HA!")
-console.log("HA!")
+console.warn("Do NOT don this again!")
+console.log("Finally!")
